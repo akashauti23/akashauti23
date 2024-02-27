@@ -1,4 +1,7 @@
-### Hi there 👋
+- 👋 Hi, I'm Akash, a software developer with a passion for building new imaging algorithms and building exciting projects.
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ajinkya-kulkarni&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajinkya-kulkarni&theme=transparent)
 
 <!--
 **akashauti23/akashauti23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
