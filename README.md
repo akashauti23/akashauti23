@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Akash, a software developer with a passion for building new imaging algorithms and building exciting projects.
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ajinkya-kulkarni&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajinkya-kulkarni&theme=transparent)
+- 📫 You can reach me at
+    - Email - akashauti23@gmail.com
+    - Linkedin - https://www.linkedin.com/in/akashauti/
 
 <!--
 **akashauti23/akashauti23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
